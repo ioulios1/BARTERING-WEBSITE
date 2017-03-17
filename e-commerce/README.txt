@@ -1,7 +1,7 @@
 ﻿				E-COMMERCE
 
 GETTING STARTED
-Τοποθετίστε τον φάκελο e-commerce στο directory του server.
+Τοποθετήστε τον φάκελο e-commerce στο directory του server.
 *Ο server πρέπει να υποστηρίζει php και mysql.
 
 Ο φάκελος e-commerce περιέχει πέντε υποφακέλους :
