@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Βάση δεδομένων: `anakt190`
+-- Βάση δεδομένων: `BarteringDB`
 --
 
 -- --------------------------------------------------------
@@ -25,6 +25,9 @@ SET time_zone = "+00:00";
 --
 -- Δομή πίνακα για τον πίνακα `ads`
 --
+CREATE DATABASE IF NOT EXISTS BarteringDB;
+USE BarteringDB;
+
 
 CREATE TABLE `ads` (
   `ad_id` int(3) NOT NULL,
